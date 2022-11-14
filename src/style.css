@@ -3,7 +3,7 @@
   margin: 0;
   border: 0;
   box-sizing: border-box;
-  transition: width 2s, height 2s, background-color 2s, transform 2s;
+  transition: width 1.5s, height 2s, background-color 2s, transform 2s;
 }
 
 :root {
